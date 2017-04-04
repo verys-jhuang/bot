@@ -1,0 +1,12 @@
+{
+  "name": "planning-poker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "verys-jhuang <jonathan.huang@verys.com>",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "^0.5.2",
+    "dotenv": "^4.0.0",
+    "jfs": "^0.2.6"
+  }
+}
